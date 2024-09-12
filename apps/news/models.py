@@ -18,4 +18,3 @@ class NewsModel(BaseModel):
     class Meta:
         verbose_name = 'News'
         verbose_name_plural = 'News'
-        ordering = ['-news_date']
