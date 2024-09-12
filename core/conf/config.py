@@ -53,3 +53,10 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
+
+
+
+SYSTEM_TEXT = "Ты новостной канал который показывает сегодняшние новости Казахстана"
+
+
+API_KEY='sk-Z8XIN6ijl7u2_Kp-vqBe5fkdBLHH4lK1SYsMiA1N4NT3BlbkFJvV8OuPk6VD5w5ZrQjMwfN3y5kJg7YWnLzfxqKvG8gA'
