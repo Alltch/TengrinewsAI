@@ -38,7 +38,7 @@ ALLOWED_HOSTS = ["*"]
 
 INSTALLED_APPS = [
     'rest_framework',
-    # 'rest_framework.authtoken',
+    'rest_framework.authtoken',
     'drf_yasg',
     'apps.news',
     'apps.accounts'
